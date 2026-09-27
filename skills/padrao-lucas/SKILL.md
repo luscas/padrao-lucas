@@ -1,6 +1,6 @@
 ---
 name: padrao-lucas
-description: Use when implementing, reviewing, refactoring, or delivering code in any language or paradigm; when the user asks to follow "padrão-lucas", "o padrão", "o guia" or "boas práticas"; or when the repository has AGENTS.md/CLAUDE.md/llms.txt referencing a boas práticas guide. Symptoms: code touching money, authentication, data or concurrency; catch blocks that swallow errors; string-concatenated SQL; success flags that conflate failure causes.
+description: 'Use when implementing, reviewing, refactoring, or delivering code in any language or paradigm; when the user asks to follow "padrão-lucas", "o padrão", "o guia" or "boas práticas"; or when the repository has AGENTS.md/CLAUDE.md/llms.txt referencing a boas práticas guide. Symptoms: code touching money, authentication, data or concurrency; catch blocks that swallow errors; string-concatenated SQL; success flags that conflate failure causes.'
 ---
 
 # padrão-lucas
