@@ -56,6 +56,10 @@ recomendação contextual, nunca bloqueio.
    como pendência com justificativa e impacto.
 5. Entregue no formato 23.1 + achados agrupados por severidade.
 
+Se o ambiente bloquear o despacho de subagentes (você é um agente-folha),
+execute a revisão multidimensional inline usando o mesmo contrato de saída e
+reporte o desvio na entrega.
+
 ## Desculpas que não valem (observadas no baseline sem skill)
 
 | Pensamento | Realidade |
